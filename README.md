@@ -1,7 +1,7 @@
 <h1 align="center"> YKS Rehber </h1> <br>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.anemon.ykssayac">
-    <img alt="YKSRehber" title="YKSRehber" src="https://imgur.com/1ULnnIp" width="450">
+    <img alt="YKSRehber" title="YKSRehber" src="https://imgyukle.com/i/SYeN51" width="450">
   </a>
 </p>
 
