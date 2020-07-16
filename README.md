@@ -59,13 +59,13 @@ The codes of application belong to version 2.5. Photos belong to version 5.1!:
 
 
 <p align="center">
-  <img src = "https://i.hizliresim.com/1GnWbw.png" width=350 height=672>
-    <img src = "https://i.hizliresim.com/KkAl8t.png" width=350 height=672>
+  <img src = "https://i.hizliresim.com/1GnWbw.png" width=350 height=580>
+    <img src = "https://i.hizliresim.com/KkAl8t.png" width=350 height=580>
 </p>
 
 <p align="center">
-  <img src = "https://i.hizliresim.com/WqX1aG.png" width=350 height=672>
-  <img src = "https://i.hizliresim.com/p3Y2l8.png" width=350 height=672>
+  <img src = "https://i.hizliresim.com/WqX1aG.png" width=350 height=580>
+  <img src = "https://i.hizliresim.com/p3Y2l8.png" width=350 height=580>
 </p>
 
 ## Feedback
