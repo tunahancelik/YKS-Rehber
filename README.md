@@ -57,13 +57,13 @@ A few of the things you can do with Yks Rehber:
 
 
 <p align="center">
-  <img src = "https://imgur.com/ifBm2xq" width=350>
-    <img src = "https://imgur.com/9ZgpWoQ" width=350>
+  <img src = "https://i.hizliresim.com/1GnWbw.png" width=350>
+    <img src = "https://i.hizliresim.com/KkAl8t.png" width=350>
 </p>
 
 <p align="center">
-  <img src = "https://imgur.com/UvTJ5bZ" width=350>
-  <img src = "https://imgur.com/mGVyXoF" width=350>
+  <img src = "https://i.hizliresim.com/WqX1aG.png" width=350>
+  <img src = "https://i.hizliresim.com/p3Y2l8.png" width=350>
 </p>
 
 ## Feedback
