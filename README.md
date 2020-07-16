@@ -1,7 +1,7 @@
 <h1 align="center"> YKS Rehber </h1> <br>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.anemon.ykssayac">
-    <img alt="YKSRehber" title="YKSRehber" src="https://i.hizliresim.com/vtWbjE.png" width="124">
+    <img alt="YKSRehber" title="YKSRehber" src="https://i.hizliresim.com/vtWbjE.png" width="144">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ An educational app with more than 10,000 downloads✨ in the Google Play store(F
 **Available for Android.**
 
 <p align="center">
-  <img src = "https://imgur.com/1buVxSO" width=350>
+  <img src = "https://i.hizliresim.com/sBjjrg.png" width=350>
 </p>
 
 ## Features
