@@ -55,6 +55,8 @@ A few of the things you can do with Yks Rehber:
 * Stay strong with motivational words
 * Add widgets to your homepage
 
+The codes of application belong to version 2.5. Photos belong to version 5.1!:
+
 
 <p align="center">
   <img src = "https://i.hizliresim.com/1GnWbw.png" width=350>
