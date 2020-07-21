@@ -22,9 +22,6 @@ Auxiliary application to the university exam. Built with JAVA.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
-- [Acknowledgments](#acknowledgments)
-
-
 
 
 
@@ -71,14 +68,6 @@ The codes of application belong to version 2.5. Photos belong to version 5.1!:
 ## Feedback
 
 Feel free to send us feedback on <a href="https://twitter.com/tunahanbeyy" target="_blank">![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tunahanbeeyy)</a> or <a href="https://t.me/tunahanbeeyy" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lincolnbrito)</a> or <a href="mailto:celiktnhn@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:celiktnhn@gmail.com)</a> . Feature requests are always welcome. If you wish to contribute, please contact me!
-
-
-
-
-## Acknowledgments
-
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
-
 
 
 ## :link: Follow me
