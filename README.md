@@ -32,7 +32,7 @@ Auxiliary application to the university exam. Built with JAVA.
 ![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Intellij Badge](https://img.shields.io/badge/-JetBrains-38B2AC?style=flat&logo=jetbrains&logoColor=white)
 
-An educational app with more than 10,000 downloads✨ in the Google Play store(For preparation for the university exam in Turkey 🇹🇷).View the time remaining for the exam, be aware of the latest news, stay strong with motivated words, plan the time while studying!
+An educational app with more than 25,000 downloads✨ in the Google Play store(For preparation for the university exam in Turkey 🇹🇷).View the time remaining for the exam, be aware of the latest news, stay strong with motivated words, plan the time while studying!
 🇹🇷 Sınava kalan zamanı görüntüleyin, son dakika haberlerden haberdar olun, motive sözler ile güçlü kalın, ders çalışırken zamanı planlayın!
 
 **Available for Android.**
